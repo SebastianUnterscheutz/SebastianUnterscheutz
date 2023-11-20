@@ -1,16 +1,23 @@
-### Hi there 👋
+👋 Hey there! I'm Sebastian, a 22-year-old software enthusiast currently honing my skills as an apprentice in the field of Information Technology, specializing in Application Development.
 
-<!--
-**SebastianUnterscheutz/SebastianUnterscheutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Education:
 
-Here are some ideas to get you started:
+    Pursuing a career in Information Technology with a focus on Application Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+
+    Languages: JavaScript, Node.js, Golang, PHP.
+    Frameworks: Express and other
+    Databases: MariaDB(SQL), Redis, MongoDB
+
+🚀 Highlights:
+
+    Actively contributing to the world of software development during my apprenticeship.
+    Exploring and implementing solutions for real-world challenges.
+
+🌐 Connect with me:
+
+    Twitter: @SebastianUnter5
+    Personal Website: https://nextcloud-zb.de/u/sebastian
+
+Let's learn and code together! 💻✨
